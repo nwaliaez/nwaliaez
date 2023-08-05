@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nwaliaez" alt="nwaliaez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nwaliaez" target="blank"><img src="https://img.shields.io/twitter/follow/nwaliaez?logo=twitter&style=for-the-badge" alt="nwaliaez" /></a> </p>
-
 - 🔭 I’m currently working at **Yellow.ai**
+
+- 🌱 I’m currently learning **Devops**
 
 - 🤝 I’m looking for a new role **Software Engineer**
 
